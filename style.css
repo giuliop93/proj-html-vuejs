@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.payoff {
+    top: 160%;
+}
+
+.one, .two, .three {
+    font-size: x-large;
+}
+
+.app {
+    top: 30%;
+    left: 15%;
+    font-size: x-large;
+}
+
+.three {
+    margin-bottom: 20px;
+}
+
+.lipad {
+    padding: 0 20px;
+}
+
+.decnone {
+    text-decoration: none;
+}
+
+.m-top-20 {
+    margin-top: 20px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.appstore {
+    height: 30px;
+    width: 60px;
+}
+
+.container {
+    width: 100vw;
+    height: 500px;
+}
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+}
+
+.full {
+    width: 100%;
+}
+
+.m-top-150 {
+    margin-top: 150px;
+}
+
+.top-final {
+    top: 15px;
+    right: 10%;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.second {
+    justify-content: space-evenly;
+}
+
+.text-center {
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+.ordering {
+    width: 100%;
+}
+
+.img-second {}
+
+.flex-second {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px 0;
+}
+
+.order {
+    background-color: red;
+    border-radius: 50px;
+    padding: 5px 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.adapt {
+    height: 100%;
+}
+
+.row-between {
+    justify-content: space-between;
+}
+
+.big-box {
+    flex-wrap: wrap;
+    margin: 20px 0;
+    justify-content: space-between;
+}
+
+.box {
+    flex-basis: calc((100% / 4) - 40px);
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.img-box {
+    width: 100%;
+    height: 100%;
+}
+
+.none {
+    display: none;
+    position: absolute;
+}
+
+.img-box:hover {
+    opacity: 0.5;
+    display: inline-block;
+}
+
+.basis-50 {
+    flex-basis: calc(50% - 20px);
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.bot-10 {
+    padding-bottom: 20px;
+}
+
+.white {
+    color: white;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.float {
+    float: left;
+}
+
+.top-60 {
+    margin-top: 90px;
+}
+
+.lilbox {
+    display: inline-block;
+    margin-top: 10px;
+    width: 100px;
+    height: 35px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.box-img {
+    width: 100%;
+    height: 100%;
+}
