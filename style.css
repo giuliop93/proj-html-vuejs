@@ -27,6 +27,10 @@
     margin-bottom: 50px;
 }
 
+.loop {
+    margin-top: 40px;
+}
+
 .lastul li {
     padding: 5px 0;
 }
@@ -59,6 +63,25 @@
 .container {
     width: 100vw;
     height: 500px;
+}
+
+
+
+.loop p {
+    margin-top: 10px;
+}
+
+.email {
+    width: 650px;
+    border-radius: 50px;
+    line-height: 40px;
+    border: none;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.auto {
+    margin: auto;
 }
 
 .wrapper {
@@ -103,7 +126,7 @@
 .text-center {
     display: inline-block;
     text-align: center;
-    margin: auto;
+    /* margin: auto; */
 }
 
 .ordering {
@@ -120,11 +143,25 @@
 }
 
 .order {
-    background-color: red;
+    background-color: crimson;
     border-radius: 50px;
     padding: 5px 10px;
     color: white;
     text-decoration: none;
+}
+
+.loop h6 {
+    margin-top: 60px;
+}
+
+.special {
+    width: 650px;
+    border-radius: 50px;
+    border: none;
+    background-color: crimson;
+    margin-top: 30px;
+    line-height: 30px;
+    font-weight: bold;
 }
 
 .adapt {
