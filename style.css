@@ -23,6 +23,14 @@
     font-size: x-large;
 }
 
+.bottom-50 {
+    margin-bottom: 50px;
+}
+
+.lastul li {
+    padding: 5px 0;
+}
+
 .three {
     margin-bottom: 20px;
 }
@@ -180,7 +188,7 @@ ul {
 }
 
 .top-60 {
-    margin-top: 90px;
+    margin-top: 20px;
 }
 
 .lilbox {
