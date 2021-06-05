@@ -17,6 +17,10 @@
     font-size: x-large;
 }
 
+.crimson {
+    color: crimson;
+}
+
 .app {
     top: 30%;
     left: 15%;
@@ -64,8 +68,6 @@
     width: 100vw;
     height: 500px;
 }
-
-
 
 .loop p {
     margin-top: 10px;
@@ -142,6 +144,19 @@
     margin: 40px 0;
 }
 
+.redball {
+    height: 100px;
+    width: 100px;
+    color: white;
+    background-color: red;
+    border: 5px solid crimson;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 80px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
 .order {
     background-color: crimson;
     border-radius: 50px;
@@ -155,6 +170,7 @@
 }
 
 .special {
+    display: inline-block;
     width: 650px;
     border-radius: 50px;
     border: none;
