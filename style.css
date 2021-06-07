@@ -128,7 +128,7 @@
 .text-center {
     display: inline-block;
     text-align: center;
-    /* margin: auto; */
+    margin: auto;
 }
 
 .ordering {
@@ -160,7 +160,9 @@
 .order {
     background-color: crimson;
     border-radius: 50px;
-    padding: 5px 10px;
+    padding: 10px 20px;
+    font-size: small;
+    font-weight: bold;
     color: white;
     text-decoration: none;
 }
